@@ -2,7 +2,7 @@
 DataVizForAll.org story template using modified Bootstrap
 
 ## Live view 
-https://emurphy12.github.io/Elizabeth-Practice-Quiz/
+https://emurphy12.github.io/DataStory/
 
 ## Instructions
 Read steps inside the `index.html` file
